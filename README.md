@@ -15,6 +15,7 @@ I enjoy building practical cybersecurity projects that demostrates real-world sk
 
 ## Project
 | Project | Description | Repository |
+|---------|-------------|------------|
 | OSINT investigation | Conducted an OSINT investigation on a target organization | Coming soon|
 | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks| Coming soon |
 
